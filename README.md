@@ -1,6 +1,6 @@
-# My-portfolio
+# My portfolio
 ## Take a look at my projects! 
-### Project 1: Can Machine Learning Beat the Odds?
+### [Project 1: Can Machine Learning Beat the Odds?](https://github.com/BMAS30/Can-Machine-Learning-Beat-the-Odds-)
 
 This project tested whether machine learning can outperform bookmakers in Hong Kong horse racing using historical data (up to 2005).
 After cleaning and encoding race features—like jockey, trainer, weights, and odds—we trained several models, with LightGBM delivering the best predictive accuracy and betting simulation results.
@@ -9,7 +9,7 @@ I tried also alternative “place” bet approach which improved hit rates but w
 While not a guaranteed money-maker, the model detected instances where market odds underestimated true win probabilities. With updated data, richer features, and refined selection criteria, there’s potential to better exploit these inefficiencies.  
 
 
-### Project 2: Using machine learning in goals market.
+### [Project 2: Using machine learning in goals market.](https://github.com/BMAS30/Using-machine-learning-in-goals-market)
 
 This project tested whether a machine learning model can beat the Over/Under 2.5 goals market in Premier League football. 
 Using historical data and engineered features like recent form, goal averages, and win rates, an XGBoost model was trained with walk-forward validation to simulate real-time predictions for the 2024–25 season.
